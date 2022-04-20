@@ -1,0 +1,1 @@
+# To-understand-the-design-of-type-1-Mamdani-Fuzzy-expert-system
